@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Champions/static/css/main.0a2b86d4.chunk.css",
-    "main.js": "/Champions/static/js/main.5efca661.chunk.js",
-    "main.js.map": "/Champions/static/js/main.5efca661.chunk.js.map",
-    "runtime~main.js": "/Champions/static/js/runtime~main.282d1bf6.js",
-    "runtime~main.js.map": "/Champions/static/js/runtime~main.282d1bf6.js.map",
-    "static/js/2.3be55525.chunk.js": "/Champions/static/js/2.3be55525.chunk.js",
-    "static/js/2.3be55525.chunk.js.map": "/Champions/static/js/2.3be55525.chunk.js.map",
-    "index.html": "/Champions/index.html",
-    "precache-manifest.a4171376607b1367bfc42fb5caab2660.js": "/Champions/precache-manifest.a4171376607b1367bfc42fb5caab2660.js",
-    "service-worker.js": "/Champions/service-worker.js",
-    "static/css/main.0a2b86d4.chunk.css.map": "/Champions/static/css/main.0a2b86d4.chunk.css.map"
+    "main.css": "/champions/static/css/main.0a2b86d4.chunk.css",
+    "main.js": "/champions/static/js/main.76e1eaeb.chunk.js",
+    "main.js.map": "/champions/static/js/main.76e1eaeb.chunk.js.map",
+    "runtime~main.js": "/champions/static/js/runtime~main.386ee5c6.js",
+    "runtime~main.js.map": "/champions/static/js/runtime~main.386ee5c6.js.map",
+    "static/js/2.3be55525.chunk.js": "/champions/static/js/2.3be55525.chunk.js",
+    "static/js/2.3be55525.chunk.js.map": "/champions/static/js/2.3be55525.chunk.js.map",
+    "index.html": "/champions/index.html",
+    "precache-manifest.5904fb44d995e71b9e550cd12a5d07e3.js": "/champions/precache-manifest.5904fb44d995e71b9e550cd12a5d07e3.js",
+    "service-worker.js": "/champions/service-worker.js",
+    "static/css/main.0a2b86d4.chunk.css.map": "/champions/static/css/main.0a2b86d4.chunk.css.map"
   }
 }
